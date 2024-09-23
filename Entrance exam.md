@@ -1,0 +1,10 @@
+# TO SOLVE [ 1 ]
+3.2
+
+# PROBLEMATIC QUESTIONS [ 2 ] 
+2.4 1.6 
+
+# SOLVED [  ]
+
+# TO REVISE [ 6 ]
+2.5 2.3 1.3 1.2 2.2 3.1   
